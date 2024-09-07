@@ -4,7 +4,7 @@
 
 1. Start med at oprette en ny projekt
 ```
-npx create-expo-app --templates blank 02_Navitation
+npx create-expo-app --template blank 02_Navitation
 ```
 *Husk at navigere indtil projektet med `cd 02_Navitation`*
 

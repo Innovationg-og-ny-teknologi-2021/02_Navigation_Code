@@ -1,4 +1,5 @@
-// npm i @react-navigation/stack @react-navigation/bottom-tabs @react-native-vector-icons/Ionicons
+// npm i @react-navigation/stack @react-navigation/bottom-tabs 
+// npm i react-native-vector-icons
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
